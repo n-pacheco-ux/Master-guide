@@ -1,76 +1,83 @@
-# 📦 W\.A.SP TECH — Prompt Mestre (PhD-Level)
+# 📦 W.A.SP TECH — Master Prompt (PhD-Level)
 
-Este repositório contém dois arquivos principais:
+This repository contains two main files:
 
-* `README.md`: Explica como usar o sistema de prompts.
-* `template.md`: Contém o **Prompt Mestre** para gerar prompts de alta qualidade com lógica, clareza e questionamento estratégico.
+* `README.md`: Explains how to use the prompt system.
+* `template.md`: Contains the **Master Prompt** for generating high-quality prompts using logic, clarity, and strategic questioning.
 
 ---
 
-## 📘 README.md — Como Usar Este Repositório
+## 📘 README.md — How to Use This Repository
 
-### 🎯 Objetivo
+### 🎯 Purpose
 
-Permitir que qualquer membro da W\.A.SP TECH — mesmo sem experiência com IA — crie prompts altamente eficazes e estratégicos para:
+To allow anyone at W.A.SP TECH — even with no AI experience — to create highly effective, strategic prompts for:
 
-* Criar websites, apps e automações
-* Responder e-mails
-* Criar templates (contratos, propostas, relatórios)
-* Depurar código
-* Planejar tarefas e negócios
-* Gerar conteúdo para redes sociais
-* Automatizar fluxos de trabalho
+* Building websites, apps, and automations  
+* Responding to emails  
+* Creating templates (contracts, proposals, reports)  
+* Debugging code  
+* Planning tasks and business activities  
+* Generating social media content  
+* Automating workflows
 
-### 🧠 Filosofia do Sistema
+---
 
-Este sistema assume que o modelo de IA deve se comportar como um **engenheiro de prompts PhD**, com lógica e pensamento crítico. Ou seja:
+### 🧠 System Philosophy
 
-✅ Faz perguntas de esclarecimento **uma por uma** antes de agir
-✅ Não aceita instruções cegamente — oferece **retorno, sugestões e alternativas**
-✅ Age com base na **lógica e nos fatos**, e **não nas emoções do usuário**
-✅ Explica tudo de maneira simples, como se estivesse ensinando para um bebê
-✅ Sempre busca a melhor solução, mesmo que vá além do que foi pedido
+This system assumes the AI model should behave like a **PhD-level prompt engineer**, using logic and critical thinking. That means:
 
-### ✅ Como Usar
+✅ It asks clarifying questions **one by one** before taking action  
+✅ It does not follow orders blindly — it gives **feedback, suggestions, and alternatives**  
+✅ It operates based on **logic and facts**, **not the user's emotions**  
+✅ It explains everything simply, as if teaching a baby  
+✅ It always seeks the best solution — even beyond what was originally asked
 
-1. Abra o arquivo `template.md`.
-2. Copie o conteúdo completo do Prompt Mestre.
-3. Substitua as partes com colchetes `[]` com a tarefa que deseja resolver.
-4. Cole no ChatGPT ou outro modelo de linguagem.
-5. O assistente vai:
+---
 
-   * Fazer perguntas iniciais para entender o contexto
-   * Explicar como vai resolver
-   * Criar o prompt especializado
-   * Confirmar com você antes de encerrar
+### ✅ How to Use
 
-### 🧪 Exemplo de Fluxo Real
+1. Open the `template.md` file  
+2. Copy the full contents of the Master Prompt  
+3. Replace the bracketed sections `[]` with the task you want to complete  
+4. Paste it into ChatGPT or another language model  
+5. The assistant will:
 
-1. Você quer criar um prompt para responder mensagens de WhatsApp.
+   * Ask initial questions to understand the context  
+   * Explain how it will solve the task  
+   * Create a specialised prompt  
+   * Confirm the result with you before finishing
 
-2. Copia o Prompt Mestre de `template.md`, e preenche:
+---
+
+### 🧪 Real-World Example Flow
+
+1. You want to create a prompt to reply to WhatsApp messages.
+
+2. You copy the Master Prompt from `template.md`, and fill it in like this:
 
    ```markdown
-   Task: Criar um prompt que gere respostas automáticas profissionais no WhatsApp
-   Why: Queremos responder mais rápido sem parecer robóticos
-   ```
+   Task: Create a prompt that generates professional automated WhatsApp replies  
+   Why: We want to respond faster without sounding robotic
+````
 
-3. O AI responde com perguntas tipo:
+3. The AI responds with questions like:
 
-   > Qual é o tipo de mensagem mais comum que você recebe?
+   > What kind of messages do you most frequently receive?
 
-4. Depois que você responde, ele oferece sugestões e estrutura um prompt perfeito para resolver sua necessidade.
-
----
-
-## 🧠 Recomendações
-
-* Use esse sistema sempre que precisar criar prompts com precisão.
-* Deixe o modelo “pensar em voz alta” para aprender com a lógica dele.
-* Use os delimitadores (`//`, \`\`\`\`\`\`, etc) sempre que possível.
-* Refatore os prompts criados em um documento próprio ou pasta `generated-prompts/`.
+4. After you answer, it will offer suggestions and build a perfect prompt to meet your need.
 
 ---
 
-Feito com 💡 por W\.A.SP TECH 🇦🇴
-Com parceria estratégica de Reign of Edward (ROE) 🇬🇧
+## 🧠 Recommendations
+
+* Use this system whenever you need to generate precise, structured prompts
+* Let the model “think out loud” so you can learn from its logic
+* Use delimiters (`//`, \`\`\`\`\`\`\`, etc.) wherever possible
+* Refactor finished prompts into a dedicated file or folder like `generated-prompts/`
+
+---
+
+Built with 💡 by W\.A.SP TECH 🇦🇴
+In strategic partnership with Reign of Edward (ROE) 🇬🇧
+Empowering Africa’s future through logic and clarity ✨
